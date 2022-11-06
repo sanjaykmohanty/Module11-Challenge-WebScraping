@@ -43,12 +43,12 @@ Scraped data is stored in below CSV file:
 The analysis provides the following insights:
 
 - Mars has 12 months
-- There are 1867 Martian days worth of data exist in the Mars Weather dataset
+- There are 1867 Martian days' worth of data exist in the Mars Weather dataset
 - Month 2 & 3 are the coldest months at -83 Celsius and month 7 is the warmest month at -68 Celsius in Mars at the location of Curiosity
 
 ![image](https://user-images.githubusercontent.com/31812730/200181608-948f3a4d-4fb6-45fa-8a79-6b38e293abad.png)
 
-- Month 6 has the lowest atmospheric pressure at 745.054422 and moth 9 has the highest atomspheric pressure at 913.30597
+- Month 6 has the lowest atmospheric pressure at 745.054422 and moth 9 has the highest atmospheric pressure at 913.30597
 
 ![image](https://user-images.githubusercontent.com/31812730/200182025-7ef0c65e-391a-4073-9985-47cca159d992.png)
 
